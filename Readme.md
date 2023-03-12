@@ -20,3 +20,4 @@ work on both iOS and Android devices.
 - Because of time limit, I did not focus on UI at all.
 - As a UI library, I've used `nativewind`.
 - Did not install commit management tool like `husky`
+- Network is Ethereum test net and did not manage API key and RPC endpoint url with .env because of limitation of time in my side.
